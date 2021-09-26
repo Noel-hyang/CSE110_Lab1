@@ -6,8 +6,11 @@ My name is **Hanran Yang**.
 
 The first code I learned is `cout`. 
 [section link](https://github.com/Noel-hyang/CSE110_Lab1/tree/branchVS#cse110_lab1)
+
 [Relative links](README.md)
+
 [Find me on steam with External Links](https://steamcommunity.com/id/yangharry_NOEL/) 
+
 I am now playing:
 - APEX
 - Battlefield V
